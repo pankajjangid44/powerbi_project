@@ -1,0 +1,104 @@
+Non Deere Name,Employee of,Competency,Supervisor,Works on,Mobile no.,Last Working Day
+Tulshiram Kashinath Wanve,Cyient,OFP,Aditya Parkhi,REMAN,9766994050,Wednesday, July 20, 2005
+Abhijeet Shelke,TCS,Engine,Giriraj Bondhare,ENGINE,9823112233,Tuesday, July 15, 2025
+Deepak Chougule,TechM,Hydraulic,Neha Metkar,HYDRAULIC,9887766554,Sunday, August 31, 2025
+Priya Deshmukh,Infosys,Software,Anant Patil,SOFTWARE,9123456789,Monday, January 6, 2025
+Vikas Sharma,Wipro,AI,Ravindra Patil,AI,9876543210,Friday, February 14, 2025
+Sneha Kulkarni,HCL,Cloud,Amruta Shinde,CLOUD,9765432109,Wednesday, March 12, 2025
+Rahul Jadhav,Capgemini,Data Analytics,Aditya Parkhi,DATA_ANALYTICS,9898765432,Tuesday, April 8, 2025
+Manisha Gupta,Accenture,Cybersecurity,Neha Metkar,CYBERSECURITY,9789654321,Sunday, May 4, 2025
+Sanjay Kadam,LTI,Mechanical,Anant Patil,MECHANICAL,9678901234,Friday, June 6, 2025
+Kiran More,Cognizant,IoT,Ravindra Patil,IOT,9567890123,Thursday, July 10, 2025
+Swati Pawar,IBM,DevOps,Amruta Shinde,DEVOPS,9456789012,Monday, August 18, 2025
+Arjun Singh,Microsoft,AI,Aditya Parkhi,AI,9345678901,Saturday, September 13, 2025
+Pooja Bhosale,Oracle,Database,Neha Metkar,DATABASE,9234567890,Wednesday, October 15, 2025
+Nikhil Joshi,TCS,Software,Giriraj Bondhare,SOFTWARE,9123456798,Tuesday, November 11, 2025
+Aarti Patel,Infosys,Cloud,Anant Patil,CLOUD,9012345678,Monday, December 8, 2025
+Sachin Wagh,Wipro,OFP,Ravindra Patil,REMAN,9901234567,Sunday, January 4, 2026
+Rupali Naik,HCL,Data Science,Amruta Shinde,DATA_SCIENCE,9890123456,Friday, February 6, 2026
+Vivek Chavan,TechM,Engine,Aditya Parkhi,ENGINE,9789012345,Thursday, March 5, 2026
+Shilpa Rao,Cyient,Hydraulic,Neha Metkar,HYDRAULIC,9678902345,Wednesday, April 1, 2026
+Amit Kumar,Capgemini,AI,Giriraj Bondhare,AI,9567891234,Tuesday, May 12, 2026
+Deepak Sawant,Accenture,Software,Anant Patil,SOFTWARE,9456789123,Monday, June 8, 2026
+Meenakshi Iyer,LTI,Cybersecurity,Ravindra Patil,CYBERSECURITY,9345678912,Sunday, July 5, 2026
+Rohit Gaikwad,Cognizant,Cloud,Amruta Shinde,CLOUD,9234567891,Friday, August 7, 2026
+Ankita Jain,IBM,Data Analytics,Aditya Parkhi,DATA_ANALYTICS,9123456780,Thursday, September 10, 2026
+Prashant Desai,Microsoft,IoT,Neha Metkar,IOT,9012345679,Wednesday, October 14, 2026
+Sarika Kale,Oracle,DevOps,Giriraj Bondhare,DEVOPS,9901234568,Tuesday, November 17, 2026
+Vinayak Pathak,TCS,Mechanical,Anant Patil,MECHANICAL,9890123457,Monday, December 7, 2026
+Madhuri Shinde,Wipro,Software,Ravindra Patil,SOFTWARE,9789012346,Sunday, January 10, 2027
+Akash Thakur,HCL,AI,Amruta Shinde,AI,9678901235,Friday, February 5, 2027
+Smriti Verma,Infosys,Cloud,Aditya Parkhi,CLOUD,9567890124,Thursday, March 4, 2027
+Yogesh Bhandari,TechM,Data Science,Neha Metkar,DATA_SCIENCE,9456789013,Wednesday, April 7, 2027
+Kavita Mishra,Cyient,Hydraulic,Giriraj Bondhare,HYDRAULIC,9345678902,Tuesday, May 11, 2027
+Nilesh Kamble,Capgemini,OFP,Anant Patil,REMAN,9234567892,Monday, June 7, 2027
+Anuja Deshpande,Accenture,Cybersecurity,Ravindra Patil,CYBERSECURITY,9123456799,Sunday, July 4, 2027
+Prakash Raut,LTI,Software,Amruta Shinde,SOFTWARE,9012345680,Friday, August 6, 2027
+Shweta Dubey,Cognizant,AI,Aditya Parkhi,AI,9901234569,Thursday, September 9, 2027
+Atul Bhosale,IBM,Cloud,Neha Metkar,CLOUD,9890123458,Wednesday, October 13, 2027
+Ritu Sharma,Microsoft,Data Analytics,Giriraj Bondhare,DATA_ANALYTICS,9789012347,Tuesday, November 16, 2027
+Sandeep Kulkarni,Oracle,DevOps,Anant Patil,DEVOPS,9678901236,Monday, December 6, 2027
+Vaishali Patil,TCS,IoT,Ravindra Patil,IOT,9567890125,Sunday, January 2, 2028
+Mohit Agarwal,Wipro,Mechanical,Amruta Shinde,MECHANICAL,9456789014,Friday, February 4, 2028
+Pallavi Jadhav,HCL,Software,Aditya Parkhi,SOFTWARE,9345678903,Thursday, March 2, 2028
+Amol Gore,Infosys,OFP,Neha Metkar,REMAN,9234567893,Wednesday, April 5, 2028
+Sunita Yadav,TechM,AI,Giriraj Bondhare,AI,9123456700,Tuesday, May 9, 2028
+Kunal Mehta,Cyient,Hydraulic,Anant Patil,HYDRAULIC,9012345681,Monday, June 5, 2028
+Archana Salunke,Capgemini,Cloud,Ravindra Patil,CLOUD,9901234570,Sunday, July 2, 2028
+Vijay Shinde,Accenture,Data Science,Amruta Shinde,DATA_SCIENCE,9890123459,Friday, August 4, 2028
+Preeti Gupta,LTI,Cybersecurity,Aditya Parkhi,CYBERSECURITY,9789012348,Thursday, September 7, 2028
+Ajay Kadam,Cognizant,Software,Neha Metkar,SOFTWARE,9678901237,Wednesday, October 11, 2028
+Sonali Pawar,IBM,AI,Giriraj Bondhare,AI,9567890126,Tuesday, November 14, 2028
+Rajesh More,Microsoft,OFP,Anant Patil,REMAN,9456789015,Monday, December 4, 2028
+Anjali Nair,Oracle,Hydraulic,Ravindra Patil,HYDRAULIC,9345678904,Sunday, January 7, 2029
+Pramod Wagh,TCS,Cloud,Amruta Shinde,CLOUD,9234567894,Friday, February 9, 2029
+Shraddha Joshi,Wipro,Data Analytics,Aditya Parkhi,DATA_ANALYTICS,9123456701,Thursday, March 8, 2029
+Vishal Patel,HCL,DevOps,Neha Metkar,DEVOPS,9012345682,Wednesday, April 4, 2029
+Megha Kale,Infosys,IoT,Giriraj Bondhare,IOT,9901234571,Tuesday, May 8, 2029
+Nitin Desai,TechM,Software,Anant Patil,SOFTWARE,9890123460,Monday, June 4, 2029
+Komal Sharma,Cyient,AI,Ravindra Patil,AI,9789012349,Sunday, July 1, 2029
+Santosh Kamble,Capgemini,Mechanical,Amruta Shinde,MECHANICAL,9678901238,Friday, August 3, 2029
+Rashmi Verma,Accenture,Cloud,Aditya Parkhi,CLOUD,9567890127,Thursday, September 6, 2029
+Amar Pawar,LTI,OFP,Neha Metkar,REMAN,9456789016,Wednesday, October 10, 2029
+Neeta Bhandari,Cognizant,Hydraulic,Giriraj Bondhare,HYDRAULIC,9345678905,Tuesday, November 13, 2029
+Rakesh Gaikwad,IBM,Data Science,Anant Patil,DATA_SCIENCE,9234567895,Monday, December 3, 2029
+Sangeeta Mishra,Microsoft,Cybersecurity,Ravindra Patil,CYBERSECURITY,9123456702,Sunday, January 6, 2030
+Mahesh Thakur,Oracle,Software,Amruta Shinde,SOFTWARE,9012345683,Friday, February 8, 2030
+Priyanka Raut,TCS,AI,Aditya Parkhi,AI,9901234572,Thursday, March 7, 2030
+Vishwas Deshpande,Wipro,Cloud,Neha Metkar,CLOUD,9890123461,Wednesday, April 3, 2030
+Anita Yadav,HCL,Data Analytics,Giriraj Bondhare,DATA_ANALYTICS,9789012350,Tuesday, May 7, 2030
+Sameer Bhosale,Infosys,DevOps,Anant Patil,DEVOPS,9678901239,Monday, June 3, 2030
+Kalyani Jain,TechM,IoT,Ravindra Patil,IOT,9567890128,Sunday, July 7, 2030
+Pratik Kulkarni,Cyient,Mechanical,Amruta Shinde,MECHANICAL,9456789017,Friday, August 2, 2030
+Sweta Dubey,Capgemini,Software,Aditya Parkhi,SOFTWARE,9345678906,Thursday, September 5, 2030
+Vinod Salunke,Accenture,OFP,Neha Metkar,REMAN,9234567896,Wednesday, October 9, 2030
+Rekha Patil,LTI,Hydraulic,Giriraj Bondhare,HYDRAULIC,9123456703,Tuesday, November 12, 2030
+Sanjeev Mehta,Cognizant,AI,Anant Patil,AI,9012345684,Monday, December 2, 2030
+Aishwarya Nair,IBM,Cloud,Ravindra Patil,CLOUD,9901234573,Sunday, January 5, 2031
+Kirti Wagh,Microsoft,Data Science,Amruta Shinde,DATA_SCIENCE,9890123462,Friday, February 7, 2031
+Rahul Desai,TCS,Cybersecurity,Aditya Parkhi,CYBERSECURITY,9789012351,Thursday, March 6, 2031
+Shalini Sharma,Wipro,Software,Neha Metkar,SOFTWARE,9678901240,Wednesday, April 2, 2031
+Aniket Kamble,HCL,OFP,Giriraj Bondhare,REMAN,9567890129,Tuesday, May 6, 2031
+Padmini Verma,Infosys,AI,Anant Patil,AI,9456789018,Monday, June 2, 2031
+Sunil Pawar,TechM,Hydraulic,Ravindra Patil,HYDRAULIC,9345678907,Sunday, July 6, 2031
+Vrinda Bhandari,Cyient,Cloud,Amruta Shinde,CLOUD,9234567897,Friday, August 8, 2031
+Amit Thakur,Capgemini,Data Analytics,Aditya Parkhi,DATA_ANALYTICS,9123456704,Thursday, September 4, 2031
+Snehal Gaikwad,Accenture,DevOps,Neha Metkar,DEVOPS,9012345685,Wednesday, October 8, 2031
+Ravi Mishra,LTI,IoT,Giriraj Bondhare,IOT,9901234574,Tuesday, November 11, 2031
+Jyoti Raut,Cognizant,Mechanical,Anant Patil,MECHANICAL,9890123463,Monday, December 1, 2031
+Pranav Deshpande,IBM,Software,Ravindra Patil,SOFTWARE,9789012352,Sunday, January 4, 2032
+Kavya Yadav,Microsoft,AI,Amruta Shinde,AI,9678901241,Friday, February 6, 2032
+Arun Bhosale,TCS,OFP,Aditya Parkhi,REMAN,9567890130,Thursday, March 5, 2032
+Manjula Jain,Wipro,Hydraulic,Neha Metkar,HYDRAULIC,9456789019,Wednesday, April 1, 2032
+Vivek Kulkarni,HCL,Cloud,Giriraj Bondhare,CLOUD,9345678908,Tuesday, May 5, 2032
+Smriti Dubey,Infosys,Data Science,Anant Patil,DATA_SCIENCE,9234567898,Monday, June 1, 2032
+Nikita Salunke,TechM,Cybersecurity,Ravindra Patil,CYBERSECURITY,9123456705,Sunday, July 5, 2032
+Ajinkya Patil,Cyient,Software,Amruta Shinde,SOFTWARE,9012345686,Friday, August 7, 2032
+Rupa Sharma,Capgemini,AI,Aditya Parkhi,AI,9901234575,Thursday, September 3, 2032
+Tejas Mehta,Accenture,OFP,Neha Metkar,REMAN,9890123464,Wednesday, October 7, 2032
+Sarika Nair,LTI,Hydraulic,Giriraj Bondhare,HYDRAULIC,9789012353,Tuesday, November 10, 2032
+Avinash Wagh,Cognizant,Cloud,Anant Patil,CLOUD,9678901242,Monday, December 7, 2032
+Shruti Desai,IBM,Data Analytics,Ravindra Patil,DATA_ANALYTICS,9567890131,Sunday, January 3, 2033
+Yash Kamble,Microsoft,DevOps,Amruta Shinde,DEVOPS,9456789020,Friday, February 5, 2033
+Neha Verma,TCS,IoT,Aditya Parkhi,IOT,9345678909,Thursday, March 4, 2033
+Rohan Pawar,Wipro,Mechanical,Neha Metkar,MECHANICAL,9234567899,Wednesday, April 7, 2033
